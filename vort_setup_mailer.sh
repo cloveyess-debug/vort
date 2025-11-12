@@ -415,7 +415,7 @@ EOF
     rm "\$TEMP_HTML"
     
     # Dynamic delay (0.5-3 seconds)
-    sleep \$(awk -v min=0.1 -v max=0.3 'BEGIN{srand(); print min+rand()*(max-min)}')
+    sleep \$(awk -v min=0.2 -v max=0.5 'BEGIN{srand(); print min+rand()*(max-min)}')
     
     # Progress indicator
     echo "[\$SUCCESS/\$TOTAL] Sent to \$CLEAN_EMAIL"
