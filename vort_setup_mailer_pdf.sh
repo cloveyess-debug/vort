@@ -311,7 +311,7 @@ EOF
         ((FAILED++))
     fi
 
-    sleep \$(awk -v min=0.1 -v max=0.3 'BEGIN{srand(); print min+rand()*(max-min)}')
+    sleep \$(awk -v min=0.3 -v max=0.8 'BEGIN{srand(); print min+rand()*(max-min)}')
 
     echo "[\$SUCCESS/\$TOTAL] Sent to \$CLEAN_EMAIL"
 
