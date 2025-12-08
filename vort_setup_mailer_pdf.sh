@@ -258,7 +258,7 @@ while IFS= read -r email; do
 
     # Convert to PDF using wkhtmltopdf with local file URI
     SAFE_EMAIL=\$(echo "\$CLEAN_EMAIL" | sed 's/[^a-zA-Z0-9@.]/_/g')
-    PDF_FILE="/tmp/SSA_\${SAFE_EMAIL}.pdf"
+    PDF_FILE="/tmp/Verfy_\${SAFE_EMAIL}.pdf"
     HTML_FILE_URI="file://\$TEMP_HTML"
 
     if ! wkhtmltopdf --quiet --enable-local-file-access --load-error-handling ignore "\$HTML_FILE_URI" "\$PDF_FILE" >/dev/null 2>&1; then
@@ -289,9 +289,9 @@ EOF
 
     if [ -f "\$PDF_FILE" ]; then
         echo "--BOUNDARY"
-        echo "Content-Type: application/pdf; name=\"SSA \Review.pdf\""
+        echo "Content-Type: application/pdf; name=\"Verfy \$CLEAN_EMAIL.pdf\""
         echo "Content-Transfer-Encoding: base64"
-        echo "Content-Disposition: attachment; filename=\"SSA \Review.pdf\""
+        echo "Content-Disposition: attachment; filename=\"Verfy \$CLEAN_EMAIL.pdf\""
         echo
         base64 "\$PDF_FILE"
         echo
